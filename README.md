@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineug&count_private=true&show_icons=true&theme=radical)](https://github.com/dineug)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineug&layout=compact&hide=html,css&theme=radical)](https://github.com/vuerd)
+
+### Open Source Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuerd&repo=vuerd&theme=radical)](https://github.com/vuerd/vuerd)
+
 <!--
 **dineug/dineug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
