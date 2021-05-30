@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineug&count_private=true&show_icons=true&theme=radical)](https://github.com/dineug)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineug&layout=compact&hide=html,css&theme=radical)](https://github.com/vuerd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineug&layout=compact&hide=html,css&theme=radical)](https://github.com/dineug)
 
 ### Open Source Project
 
+[![VS Marketplace version](https://vsmarketplacebadge.apphb.com/version-short/dineug.vuerd-vscode.svg?style=flat-square&color=blue&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode)
+[![VS Marketplace install](https://vsmarketplacebadge.apphb.com/installs-short/dineug.vuerd-vscode.svg?style=flat-square&color=blue)](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode)
+[![VS Marketplace download](https://vsmarketplacebadge.apphb.com/downloads-short/dineug.vuerd-vscode.svg?style=flat-square&color=blue)](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode)
+[![VS Marketplace rating-star](https://vsmarketplacebadge.apphb.com/rating-star/dineug.vuerd-vscode.svg?style=flat-square&color=blue)](https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vuerd&repo=vuerd&theme=radical)](https://github.com/vuerd/vuerd)
 
 <!--
